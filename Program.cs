@@ -6,7 +6,7 @@ namespace Bug_Tracker
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Bug Tracker");
         }
     }
 }
